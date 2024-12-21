@@ -1,2 +1,2 @@
 fastapi[srtandard]
-sqlachemy
+python-dotenv

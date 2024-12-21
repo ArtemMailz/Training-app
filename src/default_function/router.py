@@ -3,7 +3,7 @@ from fastapi import APIRouter, HTTPException
 from .chems import CatModel
 
 router = APIRouter(prefix = "/dafault",
-                           tags = ["Котики 🐱"])
+                    tags = ["Котики 🐱"])
 
 cats = [
     {
